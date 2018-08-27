@@ -64,7 +64,7 @@ recall@10: 0.0451534507274
 Pending.
 
 ### Acknowledgement
-The technique of randomWalks.py is learned from https://github.com/aditya-grover/node2vec. Th frsit author is Aditya Grover from Standford University. Thanks to them!
+The technique of randomWalks.py is learned from https://github.com/aditya-grover/node2vec. Th first author is Aditya Grover from Standford University. Thanks to them!
 
 
 
