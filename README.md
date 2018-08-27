@@ -3,8 +3,7 @@
 ### Introduction
 
 This is the implementation of *PsiRec* as described in the paper:<br>
-> Pseudo-Implicit Feedback for Alleviating Data.<br>
-> Sparsity in Top-K Recommendation.<br>
+> Pseudo-Implicit Feedback for Alleviating Data Sparsity in Top-K Recommendation.<br>
 > IEEE Conference on Data Mining, 2018.<br>
 > Yun He, Haochen Chen, Ziwei Zhu and James Caverlee.<br>
 
@@ -28,7 +27,6 @@ precision@5: 0.00935503812075
 recall@5: 0.0312448221345
 precision@10: 0.00683597774572
 recall@10: 0.0451534507274
-
 ```
 
 #### Run
@@ -63,6 +61,7 @@ recall@10: 0.0451534507274
 - -preProcessedData, the preprocessed datasets, which can be used directly by PsiRec.py;
 
 ### Citation
+Pending.
 
 ### Acknowledgement
 The technique of randomWalks.py is learned from https://github.com/aditya-grover/node2vec. Th frsit author is Aditya Grover from Standfor University. Thanks to them!
